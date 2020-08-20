@@ -9,4 +9,4 @@ const divideAndSort = (angka) => {
     }
 }
 
-divideAndSort(595656015946056)
+divideAndSort('59565')

@@ -2,7 +2,7 @@
 const palindrom = (kata) => {
   if (typeof(kata) === 'string'){
     let a = kata.toLowerCase()
-    let operasi = a.split('').reverse().join('');
+    let operasi = a.split('').reverse().join('')
 
     if (operasi === a){
       console.log('Palindrom')
@@ -14,4 +14,4 @@ const palindrom = (kata) => {
   }
 }
   
-palindrom('Malam');
+palindrom(1);

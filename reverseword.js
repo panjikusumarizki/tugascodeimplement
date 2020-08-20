@@ -7,4 +7,4 @@ const balik = (kalimat) => {
     }
 }
   
-balik('Saya belajar JavaScript')
+balik(1)
